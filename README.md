@@ -9,7 +9,7 @@ Para que me conozcáis un poco más personalmente, os cuento que soy una apasion
 🔗 Aquí tienes mi [LinkedIn](https://www.linkedin.com/in/celia-garcia-lopez), donde comparto actualizaciones sobre mi formación y experiencia laboral.
 
 
-📧 Este es [mi correo electrónico](celiagarcia0315@gmail.com), ¡no dudes en escribirme!
+📧 Este es mi correo electrónico: celiagarcia0315@gmail.com ¡no dudes en escribirme!
 
 <!--
 **Celiagarcialopez/Celiagarcialopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
