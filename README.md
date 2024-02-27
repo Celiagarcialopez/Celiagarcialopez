@@ -5,6 +5,8 @@ Para que me conozcáis un poco más personalmente, os cuento que soy una apasion
 ## Proyectos
 - ### [**Kankoo**](https://github.com/Celiagarcialopez/Kankoo)
 `HTML5 / CSS3 / JavaScript / Node.js / React / MySQL / Bootstrap / Sass`
+- ### [Eat them all!](https://github.com/Celiagarcialopez/Eat-Them-All)
+`HTML5 / CSS3 / JavaScript / Node.js / MySQL / Bootstrap / Sass`
 ## Contacto
 🔗 Aquí tienes mi [LinkedIn](https://www.linkedin.com/in/celia-garcia-lopez), donde comparto actualizaciones sobre mi formación y experiencia laboral.
 
